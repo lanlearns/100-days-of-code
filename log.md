@@ -45,3 +45,18 @@ Mastering the basics and fundamentals are the best foundation in learning anythi
 
 **Link to work:**  
 [Choose your own adventure: Treasure Island](https://replit.com/@lanlearn/treasure-island-start)
+
+
+## Day 4: February 01, 2024
+
+**Today's Progress:**  
+Learned about the following:
+1. random module
+2. overview of module
+3. lists
+  
+**Thoughts:**  
+Mastering the basics and fundamentals are the best foundation in learning anything.
+
+**Link to work:**  
+[Rock Paper Scissors](https://replit.com/@lanlearn/rock-paper-scissors-start)
