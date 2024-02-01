@@ -60,3 +60,20 @@ Mastering the basics and fundamentals are the best foundation in learning anythi
 
 **Link to work:**  
 [Rock Paper Scissors](https://replit.com/@lanlearn/rock-paper-scissors-start)
+
+
+
+## Day 5: February 02, 2024
+
+**Today's Progress:**  
+Learned about the following:
+1. for loop using:
+  a. object in objects
+  b. range
+  
+**Thoughts:**  
+Mastering the basics and fundamentals are the best foundation in learning anything.
+
+**Link to work:**  
+[Password Generator](https://replit.com/@lanlearn/password-generator-start)
+
