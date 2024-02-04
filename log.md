@@ -77,3 +77,18 @@ Mastering the basics and fundamentals are the best foundation in learning anythi
 **Link to work:**  
 [Password Generator](https://replit.com/@lanlearn/password-generator-start)
 
+
+
+## Day 6: February 04, 2024
+
+**Today's Progress:**  
+Learned about the following:
+1. functions
+2. pep 8
+3. while loop
+  
+**Thoughts:**  
+Enjoyed creating the loop to solve the puzzle.
+Problem1: 70steps
+Problem2: 44steps
+Problem3: 60steps
