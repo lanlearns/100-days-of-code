@@ -92,3 +92,21 @@ Enjoyed creating the loop to solve the puzzle.
 Problem1: 70steps
 Problem2: 44steps
 Problem3: 60steps
+
+```python
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+while not at_goal():
+    if right_is_clear():
+        if front_is_clear():
+            move()
+        else:
+            turn_right()
+    elif front_is_clear():
+        move()
+    else:
+        turn_left()
+```
