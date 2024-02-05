@@ -9,7 +9,7 @@ Learned about the following:
 3. Variables
   
 **Thoughts:**  
-Mastering the basics and fundamentals are the best foundation in learning anything.
+Mastering the basics and fundamentals is the best foundation in learning anything.
 
 **Link to work:**  
 [Band Name Generator](https://replit.com/@lanlearn/band-name-generator-start)  
@@ -25,7 +25,7 @@ Learned about the following:
 3. Mathematical Operations
   
 **Thoughts:**  
-Mastering the basics and fundamentals are the best foundation in learning anything.
+Mastering the basics and fundamentals is the best foundation in learning anything.
 
 **Link to work:**  
 [Tip Calculator](https://replit.com/@lanlearn/tip-calculator-start)  
@@ -41,7 +41,7 @@ Learned about the following:
 3. Logical operators
   
 **Thoughts:**  
-Mastering the basics and fundamentals are the best foundation in learning anything.
+Mastering the basics and fundamentals is the best foundation in learning anything.
 
 **Link to work:**  
 [Choose your own adventure: Treasure Island](https://replit.com/@lanlearn/treasure-island-start)
@@ -72,7 +72,7 @@ Learned about the following:
   b. range
   
 **Thoughts:**  
-Mastering the basics and fundamentals are the best foundation in learning anything.
+Mastering the basics and fundamentals is the best foundation in learning anything.
 
 **Link to work:**  
 [Password Generator](https://replit.com/@lanlearn/password-generator-start)
@@ -110,3 +110,16 @@ while not at_goal():
     else:
         turn_left()
 ```
+
+
+## Day 7: February 05, 2024
+
+**Today's Progress:**  
+Learned about the following:
+- used all previously learned techniques to create a hangman game
+  
+**Thoughts:**  
+Mastering the basics and fundamentals is the best foundation in learning anything.
+
+**Link to work:**  
+[Hangman](https://replit.com/@lanlearn/Day-7-Hangman-1-Start)
